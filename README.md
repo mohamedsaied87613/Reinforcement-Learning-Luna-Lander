@@ -5,6 +5,7 @@ This guided project, marked as **C3_W3_A1_Assignment**, is an essential componen
 ## Reinforcement Learning (RL) Brief
 
 Reinforcement Learning, often abbreviated as RL, is a machine learning paradigm that empowers agents to learn by interacting with their environment. In the realm of lunar landing, RL equips our digital explorer with the ability to make sequential decisions, optimize actions, and ultimately accomplish complex tasks like successful touchdowns.
+
 ![](videos/rl_formalism.gif)
 ## Table of Contents
 
@@ -64,6 +65,8 @@ For detailed code implementation and explanations, please refer to the provided 
 ## Results
 
 After training the agent, you can expect to see improvements in the agent's ability to successfully land the lunar lander on the designated landing pad. The trained agent should demonstrate learned behaviors that enable it to navigate and control the lander effectively.
+
+
 ![](videos/lunar_lander.gif)
 
 
@@ -81,4 +84,10 @@ Keep learning! 🚀
 
 ## References
 
-List any relevant resources, articles, or references that you consulted during the project. This could include links to official documentation, research papers, or tutorials.
+If you would like to learn more about Deep Q-Learning, we recommend you check out the following papers.
+
+Mnih, V., Kavukcuoglu, K., Silver, D. et al. Human-level control through deep reinforcement learning. Nature 518, 529–533 (2015).
+Lillicrap, T. P., Hunt, J. J., Pritzel, A., et al. Continuous Control with Deep Reinforcement Learning. ICLR (2016).
+Mnih, V., Kavukcuoglu, K., Silver, D. et al. Playing Atari with Deep Reinforcement Learning. arXiv e-prints. arXiv:1312.5602 (2013).
+
+https://www.coursera.org/specializations/machine-learning-introduction
